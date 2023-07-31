@@ -16,6 +16,4 @@ public static void countApplesAndOranges(int s, int t, int a, int b, List<Intege
         }
         System.out.println(apples_falling);
         System.out.println(oranges_falling);
-        
-
     }
